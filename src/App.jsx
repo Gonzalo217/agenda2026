@@ -63,7 +63,7 @@ function App() {
             <img
               src="/logo-ies-recreo.png"
               alt="Logo Instituto de Educación Superior Recreo"
-              className="h-16 w-16 object-contain drop-shadow-lg"
+              className="h-24 w-24 object-contain drop-shadow-lg"
             />
             <div>
               <p className="text-xs uppercase tracking-[0.2em] text-sky-100">Instituto de Educación Superior Recreo</p>
