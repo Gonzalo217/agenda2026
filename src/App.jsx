@@ -61,7 +61,7 @@ function App() {
         <div className="mx-auto max-w-6xl px-6 pb-20 pt-10 md:pb-28 md:pt-14">
           <div className="mb-10 flex items-center gap-4">
             <img
-              src="/logo-ies-recreo.svg"
+              src="/logo-ies-recreo.png"
               alt="Logo Instituto de Educación Superior Recreo"
               className="h-20 w-20 rounded-xl border border-white/30 bg-white/15 object-contain p-2 backdrop-blur"
             />
