@@ -1,0 +1,190 @@
+{
+  "dias": [
+    { "key": "mie25", "label": "Miércoles 25/03" },
+    { "key": "jue26", "label": "Jueves 26/03" },
+    { "key": "vie27", "label": "Viernes 27/03" },
+    { "key": "lun30", "label": "Lunes 30/03" },
+    { "key": "mar31", "label": "Martes 31/03" },
+    { "key": "mie01", "label": "Miércoles 01/04" }
+  ],
+  "formacionDocente": [
+    {
+      "id": "prof-ingles",
+      "nombre": "Profesorado de Inglés",
+      "icono": "Languages",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "20:25 - 23:10", "actividad": "Alfabetización Digital / Ofimática" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 21:05", "actividad": "Sujeto de Educación Superior" },
+          { "horario": "21:05 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "prof-biologia",
+      "nombre": "Profesorado de Biología",
+      "icono": "Leaf",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "20:25 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización Digital / Ofimática" },
+          { "horario": "20:25 - 23:10", "actividad": "Sujeto de Educación Superior" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "prof-historia",
+      "nombre": "Profesorado de Historia",
+      "icono": "Landmark",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Sujeto de Educación Superior" }
+        ],
+        "lun30": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mar31": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización Digital / Ofimática" },
+          { "horario": "20:25 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "prof-geografia",
+      "nombre": "Profesorado de Geografía",
+      "icono": "Globe",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "21:05 - 23:10", "actividad": "Presentación de la Carrera" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Sujeto de Educación Superior" },
+          { "horario": "20:25 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 20:25", "actividad": "Bienestar Estudiantil y Convivencia Institucional" },
+          { "horario": "20:25 - 23:10", "actividad": "Alfabetización Digital / Ofimática" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "prof-matematicas",
+      "nombre": "Profesorado de Matemáticas",
+      "icono": "Calculator",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización Digital / Ofimática" },
+          { "horario": "20:25 - 23:10", "actividad": "Sujeto de Educación Superior" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 21:05", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "21:05 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "prof-artes-visuales",
+      "nombre": "Profesorado de Artes Visuales",
+      "icono": "Palette",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización Digital / Ofimática" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Sujeto de Educación Superior" },
+          { "horario": "20:25 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 21:05", "actividad": "Normativa Vigente / SIU y RAI" },
+          { "horario": "21:05 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    }
+  ],
+  "formacionTecnica": [
+    {
+      "id": "tec-enfermeria",
+      "nombre": "Tec. Sup. en Enfermería Profesional",
+      "icono": "HeartPulse",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Normativa Vigente / SIU y RAI" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización Digital / Ofimática" },
+          { "horario": "20:25 - 23:10", "actividad": "Sujeto de Educación Superior" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización, Lectura y Escritura Académica" },
+          { "horario": "20:25 - 23:10", "actividad": "Bienestar Estudiantil y Convivencia Institucional" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    },
+    {
+      "id": "tec-alimentos",
+      "nombre": "Tec. Sup. en Tecnología de los Alimentos",
+      "icono": "FlaskConical",
+      "cronograma": {
+        "mie25": [{ "horario": "19:00 - 23:10", "actividad": "Jornada de Inicio de Talleres" }],
+        "jue26": [
+          { "horario": "19:00 - 21:05", "actividad": "Presentación de la Carrera" },
+          { "horario": "21:05 - 23:10", "actividad": "Alfabetización, Lectura y Escritura Académica" }
+        ],
+        "vie27": [
+          { "horario": "19:00 - 20:25", "actividad": "Alfabetización Digital / Ofimática" },
+          { "horario": "20:25 - 23:10", "actividad": "Sujeto de Educación Superior" }
+        ],
+        "lun30": [
+          { "horario": "19:00 - 20:25", "actividad": "Bienestar Estudiantil y Convivencia Institucional" },
+          { "horario": "20:25 - 23:10", "actividad": "Normativa Vigente / SIU y RAI" }
+        ],
+        "mar31": [{ "horario": "19:00 - 23:10", "actividad": "Presentación de la Carrera / Aproximación al Perfil Profesional" }],
+        "mie01": [{ "horario": "19:00 - 23:10", "actividad": "Tecnologías Emergentes en el Ámbito Académico" }]
+      }
+    }
+  ]
+}
