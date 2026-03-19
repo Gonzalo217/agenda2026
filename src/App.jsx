@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { ArrowUp, BookOpen, ClipboardList, Download, MapPin, Phone, School, ScrollText } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import CareerCard from './components/CareerCard';
 import ScheduleTable from './components/ScheduleTable';
 import Reglamento from './components/Reglamento';
@@ -33,8 +34,10 @@ function App() {
   };
 
   return (
-    <div id="top" className="text-slate-800">
-      <nav className="sticky top-0 z-50 border-b border-white/10 bg-institutional-blue/95 backdrop-blur">
+    <>
+      <Analytics />
+      <div id="top" className="text-slate-800">
+        <nav className="sticky top-0 z-50 border-b border-white/10 bg-institutional-blue/95 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
           <span className="shrink-0 text-sm font-bold text-white">IES Recreo · 2026</span>
           <div className="flex gap-1 overflow-x-auto text-xs">
@@ -189,7 +192,8 @@ function App() {
           </div>
         </section>
       </main>
-    </div>
+      </div>
+    </>
   );
 }
 
