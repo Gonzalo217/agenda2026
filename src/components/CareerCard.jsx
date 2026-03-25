@@ -38,12 +38,7 @@ function CareerCard({ career, onSelect, isActive }) {
         <h3 className="text-base font-semibold text-slate-800">{career.nombre}</h3>
       </div>
 
-      <button
-        className="w-full rounded-xl bg-institutional-blue px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-sky-700"
-        onClick={() => onSelect(career)}
-      >
-        Ver cronograma
-      </button>
+      
     </article>
   );
 }
