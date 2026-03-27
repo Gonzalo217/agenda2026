@@ -7,14 +7,13 @@ const PROGRAMA = [
   { num: 4, texto: 'Ingreso de banderas de ceremonia · Entonación de Himnos' },
   { num: 5, texto: 'Discurso de Apertura — Sra. Rectora IES Recreo, Esp. María Martínez' },
   { num: 6, texto: 'Palabras del Sr. Intendente de la Ciudad de Recreo, Luis Polti' },
-  { num: 7, texto: 'Palabras de la Sra. Directora Provincial de Nivel Superior, Lic. Abahi Brizuela' },
-  { num: 8, texto: 'Lectura de Disposición, Huésped de Honor — Sra. Secretaria Técnica, Prof. Nancy Tobares' },
+  { num: 7, texto: 'Lectura de Disposición, Huésped de Honor — Sra. Secretaria Técnica, Prof. Nancy Tobares' },
+  { num: 8, texto: 'Palabras de la Sra. Directora Provincial de Nivel Superior, Lic. Abahi Brizuela'},
   { num: 9, texto: 'Presentación del equipo de trabajo de apoyo a la gestión y coordinadores de carreras' },
   { num: 10, texto: 'Retiro de Banderas de Ceremonia' },
   { num: 11, texto: 'Presentación de la Agenda del Estudiante' },
   { num: 12, texto: 'Dinámica de socialización y sorteo de kits escolares' },
   { num: 13, texto: 'Inicio de Talleres: Reglamento Académico y SIU' },
-  { num: 14, texto: 'Reflexión final a cargo de Magíster Oscar Gallardo · Cierre' },
 ];
 
 function ActoBienvenida() {
